@@ -4,6 +4,18 @@
 <head>
    <meta charset="utf-8">
    <title>Links</title>
+   <style>
+	body {text-align:center;
+      background-image:linear-gradient(red, yellow, green); opacity: 0.95;
+     }  
+
+
+h1 {font-size:30px;
+  background-size: 335px 50px;
+  background-image:linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, orange, yellow, green, blue, indigo, violet);
+  -webkit-background-clip: text;
+  color: rgba(255, 255, 255, 0.25);
+} </style>
 </head>
 <body>
    <h1 id="top">Links to sections of the same page!</h1>
