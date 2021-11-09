@@ -10,7 +10,7 @@
      }  
 
 
-h1 {font-size:30px;
+h1, h3 {font-size:30px;
   background-size: 335px 50px;
   background-image:linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, orange, yellow, green, blue, indigo, violet);
   -webkit-background-clip: text;
