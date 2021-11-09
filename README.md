@@ -23,6 +23,8 @@ h1 {font-size:30px;
    	  <ul>
    	  	<li><a href="#section1">#section1</a></li>
    	  	<li><a href="#section2">#section2</a></li>
+	        <li><a href="#section3">#section3</a></li>
+   	  	<li><a href="#section4">#section4</a><li>
    	  </ul>
    	</section>
    	<section id="section1">
@@ -32,6 +34,14 @@ h1 {font-size:30px;
    	<section id="section2">
    			<h3>Section 2</h3>
    			<p>hfuihfuiwhfwhfiuwfuiwgfuiwegfuiwegfweifgsfwgwgrgergergergerdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddggergegergergergreg</p>
+   	</section>
+		<section id="section3">
+   		<h3>Section 3</h3>
+   		<p>o aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatos</p>
+   	</section>
+   	<section id="section4">
+   		<h3>Section 4</h3>
+   		<p>o aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatoso aris einai gamatos</p>
    	</section>
    	<div> <a href="#top"/>Back to Top of the page!</div>
 © 2021 GitHub, Inc.
